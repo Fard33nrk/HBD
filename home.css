@@ -685,7 +685,8 @@ canvas{
 .frworks h3{
   color: white;
   text-align: center;
-  font-size: 20px;
+font-size: 15px;
+  transform: translate(0px, 500px)
 }
 
 .frworks h2{
